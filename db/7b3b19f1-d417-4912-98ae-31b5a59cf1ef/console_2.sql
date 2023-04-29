@@ -1,0 +1,1 @@
+insert into employee(id, worknumber, name, gender, age, idcard, entrydate) values (1, '1', 'it', '男', 18, '44060620030226431x', '2003-02-26');
